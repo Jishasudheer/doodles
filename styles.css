@@ -1,0 +1,61 @@
+.brand{
+    width: 25px;
+    height: 25px;
+}
+.logo{
+    font-family:sans-serif;
+    font-weight: 900;
+    font-size: larger;
+    color: rgb(113, 114, 69);
+}
+.nav-item-img{
+    color: white;
+    
+  }
+.firstimage{
+    width:100%;
+    height: 300px;
+}
+.bell-icon{ 
+    width: 700px;
+    height: 200px;
+    background-color: chartreuse;
+}
+.row{
+    position: relative;
+    margin-top:-130px;
+}
+.bell-icons{
+    width: 70px;
+    height:70px;
+}
+.drop-icons{
+    width: 30px;
+    height:70px;
+}
+.lorem{
+    margin-top: 20px;
+    margin-left:-10px;
+    color:white;
+}
+.chair-image{
+    width:420px;
+    height: 400px;
+
+}
+.bottom-images{
+    width: 300px;
+    height:200px;
+}
+.bottom-part{
+    background-image: linear-gradient(to top, #feada6 0%, #f5efef 100%); 
+}
+.bottom-image{
+    width: 300px;
+    height:160px;
+}
+.bottom-p{
+    margin-top:10px;
+    margin-left:80px;
+
+}
